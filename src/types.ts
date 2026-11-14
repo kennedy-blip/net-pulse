@@ -1,0 +1,1 @@
+export type RequestItem={id:number;method:string;path:string;host:string;status:number;size:string;dns:number;tcp:number;tls:number;ttfb:number;download:number;time:string;headers:{request:string[];response:string[]}};
